@@ -1,5 +1,5 @@
-require 'redmine'
-require_dependency 'css_inserter_hooks'
+require File.expand_path('lib/redmine')
+require_dependency File.expand_path('plugins/issue_color_label/lib/css_inserter_hooks')
 
 Redmine::Plugin.register :issue_color_label do
   name 'Issue Color Label plugin'
