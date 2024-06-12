@@ -11,7 +11,7 @@ Redmine::Plugin.register :issue_color_label do
 
   Only administrators can update the settings, other users can only view the current settings.'
   
-  version '0.1'
+  version '0.3'
   url 'http://github.com/bogdananton/Redmine-plugin-issueColorLabel'
   author_url 'http://bogdananton.ro'
 

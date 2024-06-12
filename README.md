@@ -10,7 +10,9 @@ Administrators can update the settings, other users can only view.
 
 Install
 -----
-Install by downloading the [0.2 release zip](https://github.com/bogdananton/Redmine-plugin-issueColorLabel/releases/download/0.2/issueColorLabel.zip) and unpacking it into the /plugins/ folder of your Redmine instance.
+Install by cloning repo `git clone git@github.com:andproff/Redmine-plugin-issueColorLabel.git issue_color_label` into the /plugins/ folder of your Redmine instance.
+Then restart redmine server
+
 
 
 Limitations / future development
